@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riyadhrazzaq
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in backend engineering
 - 🌱 I’m currently working at CMED Health
 - 📫 riyadh.razzaq@gmail.com
 
