@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @riyadhrazzaq
-- 👀 I’m interested in backend engineering
-- 🌱 I’m currently working at CMED Health
+- 👋 Hi, I’m Md Abdur Razzaq Riyadh
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently pursuing my Master's in Language and Communication Technology at the University of Malta, Malta
+- 🏅 I am an Erasmus Mundus Scholarship Recipient
 - 📫 riyadh.razzaq@gmail.com
 
 <!---
